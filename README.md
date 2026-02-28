@@ -13,8 +13,7 @@ Students often struggle with:
 
 ⚡ Key Features
 - Personalized daily study schedule  
-- Priority-based subject planning  
-- Progress tracking with graphs & stats  
+- Priority-based subject planning   
 - Interactive quizzes to reinforce learning  
 - Easy-to-use web interface
 
